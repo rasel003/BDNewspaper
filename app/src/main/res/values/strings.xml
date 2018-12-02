@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BD Newspaper</string>
+    <string name="prothom_alo">Prothom ALo</string>
+    <string name="bangladesh_n_pratidin">Bangladesh   Pratidin</string>
+    <string name="dhaka_tribune">Dhaka Tribune</string>
+    <string name="kaler_kantho">Kaler Kantho</string>
 </resources>
